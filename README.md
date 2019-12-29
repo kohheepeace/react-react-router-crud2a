@@ -1124,7 +1124,8 @@ export default withRouter(PostsEditPage);
 1. If **current_user** visit other user's **PostsEditPage**
 2. Redirect to **HomePage**
 3. Use Context of react
-https://reactjs.org/docs/context.html
+- https://reactjs.org/docs/context.html
+- https://alligator.io/react/manage-user-login-react-context/
 
 ### Step12-1 Make User context
 Make `src/utils/userContext.js`:
