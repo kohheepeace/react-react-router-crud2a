@@ -1,6 +1,34 @@
+**Table of contents:**
+- [React with React Router Crud2A](#react-with-react-router-crud2a)
+- [Using Packages](#using-packages)
+- [Step1 Create react app](#step1-create-react-app)
+- [Step2 Install necessary packages](#step2-install-necessary-packages)
+- [Step3 Copy and paste react-router auth example code](#step3-copy-and-paste-react-router-auth-example-code)
+- [Step4 folder structure](#step4-folder-structure)
+  - [pages](#pages)
+  - [components](#components)
+  - [utils](#utils)
+- [Edit App.js](#edit-appjs)
+- [Yarn start with 3001 port](#yarn-start-with-3001-port)
+- [Step5 SignUp](#step5-signup)
+- [Step6 Login](#step6-login)
+- [Step7 PostsNew](#step7-postsnew)
+- [Step8 Home fetch all posts](#step8-home-fetch-all-posts)
+- [Step9 PostsShow](#step9-postsshow)
+- [Step10 My Posts Page and Delete Post](#step10-my-posts-page-and-delete-post)
+- [Step11 PostsEdit](#step11-postsedit)
+- [Step12 Client Side Authorization](#step12-client-side-authorization)
+  - [Step12-1 Make User context](#step12-1-make-user-context)
+  - [Step12-2 Fetch current_user and Provide it](#step12-2-fetch-currentuser-and-provide-it)
+  - [Step12-3 Consume(use) currentUser in PostsEditPage](#step12-3-consumeuse-currentuser-in-postseditpage)
+
 ## React with React Router Crud2A
 
-## Packages
+This is crud2A project of
+- react.js
+- react-router
+
+## Using Packages
 - react-router
 - react
 - axios: Make ajax call (https://reactjs.org/docs/faq-ajax.html)
